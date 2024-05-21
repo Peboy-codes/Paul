@@ -1,4 +1,4 @@
-# Hello 👋, Paul
+# Hello 👋, I'm Paul
 
 I'm someone who truly loves making cool stuff for the web. Building neat websites and apps is really what keeps me motivated! Not just making things look pretty, but ensuring they work perfectly too. 
 
